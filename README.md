@@ -1,2 +1,2 @@
-# pj-c-s
-多种server/client
+# 多种server/client网络通信
+
